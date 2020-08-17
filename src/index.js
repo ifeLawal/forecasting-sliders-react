@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import './base.css';
 import App from './App';
-import ForecastDashBoard from './App';
+import RoutePage from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <ForecastDashBoard />
+    <RoutePage />
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed using react gh-pages. [This awesome article by Benni Russell](https://medium.com/@bennirus/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2) shows the 3 simple steps: 
+
 Purpose of interface / program
 
 Allow a user to do calculations through a slider and input interface.

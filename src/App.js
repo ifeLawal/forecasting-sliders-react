@@ -4,6 +4,20 @@ import './App.css';
 import './switch.css';
 import { BrowserRouter as Router, Route, Link, Switch, Redirect, } from 'react-router-dom';
 
+
+class RoutePage extends React.Component {
+
+  render() {
+    return (
+      <Router basename="/forecasting-sliders-react">
+        <Switch>
+          <Route path="/" exact component={ForecastDashBoard}/>
+        </Switch>
+      </Router>
+    )
+  }
+}
+
 // manages all the data and states in inputs and sliders
 // uses that data to calculate the data for the result block
 // TBD - if it passes revenue, orders, AOV, and cost values as props to BlockInputs
@@ -212,4 +226,4 @@ class ResultBlock extends React.Component {
 }
 
 
-export default ForecastDashBoard;
+export default RoutePage;
