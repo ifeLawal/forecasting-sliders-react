@@ -35,7 +35,7 @@ Still configuring all the parts
 
 ## [image of interactions](https://docs.google.com/presentation/d/1mY_kCW9vYJANTlklQzCAqVQRKFbcVomjXj-jV8pGlkk/edit#slide=id.p)
 
-Forecastdashboard - 
+ForecastDashBoard - 
     - Manages state of all the numbers
     - Calculates return on ad spend to send to result block
 

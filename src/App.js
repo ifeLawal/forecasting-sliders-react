@@ -5,6 +5,8 @@ import './switch.css';
 import { BrowserRouter as Router, Route, Link, Switch, Redirect, } from 'react-router-dom';
 
 
+// used as the access point for the react components
+// to be displayed on github pages
 class RoutePage extends React.Component {
 
   render() {
