@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed using react gh-pages. [This awesome article by Benni Russell](https://medium.com/@bennirus/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2) shows the 3 simple steps: 
+[Feel free to interact with the project so far](https://ifelawal.github.io/forecasting-sliders-react/) 
+
+### Deployed using react gh-pages. [This awesome article by Benni Russell](https://medium.com/@bennirus/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2) shows the 3 simple steps: 
 
 Purpose of interface / program
 
@@ -31,7 +33,7 @@ Main code files:
 Still configuring all the parts
 ----
 
-image of interactions
+## [image of interactions](https://docs.google.com/presentation/d/1mY_kCW9vYJANTlklQzCAqVQRKFbcVomjXj-jV8pGlkk/edit#slide=id.p)
 
 Forecastdashboard - 
     - Manages state of all the numbers
