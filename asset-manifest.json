@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/forecasting-sliders-react/static/css/main.dfffb338.chunk.css",
+    "main.js": "/forecasting-sliders-react/static/js/main.8e64bb7b.chunk.js",
+    "main.js.map": "/forecasting-sliders-react/static/js/main.8e64bb7b.chunk.js.map",
+    "runtime-main.js": "/forecasting-sliders-react/static/js/runtime-main.322a15cd.js",
+    "runtime-main.js.map": "/forecasting-sliders-react/static/js/runtime-main.322a15cd.js.map",
+    "static/js/2.9ad04650.chunk.js": "/forecasting-sliders-react/static/js/2.9ad04650.chunk.js",
+    "static/js/2.9ad04650.chunk.js.map": "/forecasting-sliders-react/static/js/2.9ad04650.chunk.js.map",
+    "index.html": "/forecasting-sliders-react/index.html",
+    "precache-manifest.b6dce8bf450d5958f5e42286de365c20.js": "/forecasting-sliders-react/precache-manifest.b6dce8bf450d5958f5e42286de365c20.js",
+    "service-worker.js": "/forecasting-sliders-react/service-worker.js",
+    "static/css/main.dfffb338.chunk.css.map": "/forecasting-sliders-react/static/css/main.dfffb338.chunk.css.map",
+    "static/js/2.9ad04650.chunk.js.LICENSE.txt": "/forecasting-sliders-react/static/js/2.9ad04650.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/forecasting-sliders-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322a15cd.js",
+    "static/js/2.9ad04650.chunk.js",
+    "static/css/main.dfffb338.chunk.css",
+    "static/js/main.8e64bb7b.chunk.js"
+  ]
+}
